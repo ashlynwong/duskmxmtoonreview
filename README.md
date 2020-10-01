@@ -1,12 +1,18 @@
-## Welcome to GitHub Pages
+# a review of _dusk_ by mxmtoon
 
-You can use the [editor on GitHub](https://github.com/ashlynwong/duskmxmtoonreview/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hi, my name is Ashlyn Wong, and I am a huge fan of Maia, otherwise known as mxmtoon. _dusk_ launched on October 1, 2020, which is now streaming on all platforms, including Spotify and Apple Music. You can find all of the links to _dusk_ [here](https://mxmtoon.ffm.to/dusk).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## the tracklist
+1. bon iver
+2. ok on your own (feat. Carly Rae Jepsen)
+3. myrtle ave.
+4. wallflower
+5. asking for a friend
+6. show and tell
+7. first
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### my favorite songs
+Though
 
 ```markdown
 Syntax highlighted code block
