@@ -12,7 +12,8 @@ Hi, my name is Ashlyn Wong, and I am a huge fan of Maia, otherwise known as mxmt
 7. first
 
 ### my favorite songs
-Though
+As a huge fan of her music, I have absolutely zero complaints about any of the songs in the album, but my favorite few have to be _ok on your own_ and _myrtle ave._
+
 
 ```markdown
 Syntax highlighted code block
