@@ -1,3 +1,5 @@
+![dusk album cover](https://images.genius.com/f421f9aef316109c814e7145bd07630b.1000x1000x1.png)
+
 # a review of _dusk_ by mxmtoon
 
 Hi, my name is Ashlyn Wong, and I am a huge fan of Maia, otherwise known as mxmtoon. _dusk_ launched on October 1, 2020, which is now streaming on all platforms, including Spotify and Apple Music. You can find all of the links to _dusk_ [here](https://mxmtoon.ffm.to/dusk).
