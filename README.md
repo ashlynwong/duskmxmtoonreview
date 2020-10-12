@@ -14,33 +14,9 @@ Hi, my name is Ashlyn Wong, and I am a huge fan of Maia, otherwise known as mxmt
 7. first
 
 ### my favorite songs
-As a huge fan of her music, I have absolutely zero complaints about any of the songs in the album, but my favorite few have to be _ok on your own_ and _myrtle ave._
+As a huge fan of her music, I have absolutely zero complaints about any of the songs in the album, but my favorite few have to be _ok on your own_, _asking for a friend_, and _myrtle ave._
 
+## overall
+I would highly recommend checking out and listening to _dusk_, along with Maia's other music! Compared to her earlier albums, this album sounds a lot more complex and I could definitely tell that she and her team spent a lot of time on producing the songs. For example, in her album _plum blossom_, most of her songs would be composed of only her voice and her ukulele whilst it now has lots of different musical instruments and sound effects. Be sure to listen to both _dawn_ and _dusk_, both streaming now!
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ashlynwong/duskmxmtoonreview/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![dusk album cover](https://images.genius.com/f421f9aef316109c814e7145bd07630b.1000x1000x1.png)
