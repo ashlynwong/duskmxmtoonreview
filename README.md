@@ -1,4 +1,4 @@
-![dusk album cover](https://images.genius.com/f421f9aef316109c814e7145bd07630b.1000x1000x1.png)
+![dusk album banner](https://images.genius.com/eaaa0f453d3c3bcbc4e64e1990c73883.1000x210x1.jpg)
 
 # a review of _dusk_ by mxmtoon
 
